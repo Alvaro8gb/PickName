@@ -1,5 +1,7 @@
 # PickName - Random Name Selector App
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pickname.streamlit.app/)
+   
 A beautiful Streamlit application to randomly select names from a list with visual animations and statistics.
 
 ## Features
